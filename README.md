@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r4wd1suda6ajffvh?svg=true)](https://ci.appveyor.com/project/Irina-Khaustova/homework-regular-expressions-1)
